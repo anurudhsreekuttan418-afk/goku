@@ -50,8 +50,7 @@ For Hardware:
 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+blob:https://web.whatsapp.com/e0f180e2-82c4-4901-8529-4b0af5247b90
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
