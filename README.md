@@ -12,9 +12,7 @@
 
 
 ### Team Members
-- Team Lead: [Anurudh Babu] - [ace]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Anurudh Babu - ace college of engineering
 
 ### Project Description
 [2-3 lines about what your project does]
